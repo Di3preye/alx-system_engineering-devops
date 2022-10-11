@@ -1,1 +1,1 @@
-A script that prints Hello World
+ You better
